@@ -35,4 +35,3 @@
 | Cross-site flashing | 4.0-10.0 | 0.1-8.9 | 0.1-6.9 | 0.1-3.9 | 1,000 |
 | Null byte injection | 4.0-10.0 | 0.1-8.9 | 0.1-6.9 | 0.1-3.9 | 1,000 |
 
-Please let me know if you would like me to add any other vulnerabilities to the list. I can continue expanding it based on standard vulnerability categories and examples.
