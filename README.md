@@ -1,6 +1,6 @@
 # AllAboutBugBounty
 
-Here is an updated tabular list with more vulnerabilities added:
+### Bounty that we can roughly get from bugs:
 
 | Type of vulnerability | CVSSV3 critical level | CVSSV3 high level | CVSSV3 medium level | CVSSV3 low level | Payment amount ($) |
 |-|-|-|-|-|-|  
